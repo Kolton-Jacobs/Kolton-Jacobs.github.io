@@ -1,0 +1,30 @@
+/* Change background color */
+body {
+  background-color: #7e9478;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Style main heading */
+h1 {
+  color: #c9c6c4;
+  font-family: "Georgia", serif;
+  margin-bottom: 10px;
+}
+
+/* Style paragraph text */
+p {
+  color: #f6f6f6;
+  font-family: "Verdana", sans-serif;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+div {
+  width: 275px;
+  height: 125px;
+  background-color: #cce5ff;
+  border: 2px solid #003366;
+  padding: 15px;
+  margin: 25px auto;
+}
